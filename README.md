@@ -19,8 +19,8 @@ This project involves creating a comprehensive sales dashboard using Power BI to
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/rithulshaji/Sales-Dashboard_Power-BI/blob/main/Dasbboard%201.png)
-![Screenshot 2](https://github.com/rithulshaji/Sales-Dashboard_Power-BI/blob/main/Dasbboard%201.1.png)
+![Screenshot 1](https://github.com/rithulshaji/Sales-Dashboard_Power-BI/blob/main/Dashboard_1.png)
+![Screenshot 2](https://github.com/rithulshaji/Sales-Dashboard_Power-BI/blob/main/Dashboard_2.png)
 
 ## Data Sources
 
