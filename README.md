@@ -6,7 +6,7 @@ This project involves creating a comprehensive sales dashboard using Power BI to
 
 ## Features
 
-- **Comprehensive Dashboard**: Developed a sales dashboard that visualizes over 4000+ transactions, providing a clear overview of sales performance.
+- **Comprehensive Dashboard**: Developed a sales dashboard that visualizes over 400,000 transactions, providing a clear overview of sales performance.
 - **Monthly & Daily Visualizations**: Created visualizations to track sales and profit trends on a monthly and daily basis.
 - **Product Analysis**: Analyzed sales by product to identify top-performing products and categories.
 - **Sales Channel Insights**: Examined sales data from multiple channels, including Direct Sales, Online, and Wholesaler, to understand customer preferences and sales distribution.
@@ -16,6 +16,25 @@ This project involves creating a comprehensive sales dashboard using Power BI to
 - **Payment Mode Analysis**: Created visual representations of payment modes, showing the split between cash and online payments to assist in financial planning.
 - **Trend Identification**: Identified trends and patterns in sales data, contributing to a 21% profit margin.
 - **Automated Data Updates**: Ensured real-time accuracy of the sales dashboard by automating data updates.
+
+## Key Metrics
+
+- **Total Sales**: $401K
+- **Total Profit**: $69K
+- **Profit Percentage**: 22% (up from 19% in 2021)
+- **Top-Performing Product Category**: FT Standa (forever champion in total sales for both 2021 and 2022)
+- **Sales Growth**: 14.4% increase in total sales from 2021 to 2022 ($187K to $214K)
+- **Sales Channel Distribution**:
+  - Direct Sales: 50%+
+  - Online Sales: 30%+
+  - Wholesaler Sales: 20%+
+- **Payment Mode Split**:
+  - Cash: 50%
+  - Online: 50%
+- **Profit Margin**:
+  - 2021: $30K
+  - 2022: $39K (up 30% from 2021)
+- **Trend Identification**: 21% profit margin increase
 
 ## Screenshots
 
@@ -27,9 +46,6 @@ This project involves creating a comprehensive sales dashboard using Power BI to
 - **Input Data**: Contains sales transaction details including date, product ID, quantity, sale type, payment mode, and discount percentage.
 - **Master Data**: Includes product details such as product ID, product name, category, unit of measure (UOM), buying price, and selling price.
 
- **Interact with Visuals**: Use filters to explore data by different dimensions such as year, month, sale type, and payment mode.
-
 ## Conclusion
 
-This project demonstrates the ability to handle and analyze datasets, create insightful visualizations, and provide actionable business insights. The sales dashboard enhances data-driven decision-making and improves reporting efficiency.
-
+This project demonstrates the ability to handle and analyze large datasets, create insightful visualizations, and provide actionable business insights. The sales dashboard enhances data-driven decision-making and improves reporting efficiency.
